@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:C084FC,100:9D7BFF&height=190&section=header&text=Anshax%20Anwar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:C084FC,100:9D7BFF&height=190&section=header&text=Anch7AI%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-### ♡ Hello, I'm Anshax!
+### ♡ Hello, I'm Anch
 
-**Computer Science Graduate | Full-Stack Developer**
+**Computer Science  | Full-Stack Developer**
 
 *Turning ideas into code, and curiosity into creations.*
 
